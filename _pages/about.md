@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.maths.ox.ac.uk/people/seth.hardy'>University of Oxford</a>
+subtitle: <a href='https://www.maths.ox.ac.uk/people/seth.hardy'> University of Oxford </a>
 
 profile:
   align: right
