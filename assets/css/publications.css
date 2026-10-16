@@ -1,0 +1,12 @@
+
+/* Left-align the publication list */
+.publications ol.bibliography {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+/* Remove extra indentation from each entry */
+.publications ol.bibliography > li {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
