@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Research Associate in Analytic Number Theory in the Research group of [Professor James Maynard](https://www.maths.ox.ac.uk/people/james.maynard). My main research interests lie broadly in probabilistic number theory.
+I am a Postdoctoral Research Associate in Analytic Number Theory in the research group of [Professor James Maynard](https://www.maths.ox.ac.uk/people/james.maynard). My main research interests lie broadly in probabilistic number theory.
 
 Previously, I completed my PhD titled "Three Problems on Random Multiplicative Functions" at the University of Warwick under the supervision of [Professor Adam Harper](https://warwick.ac.uk/fac/sci/maths/people/staff/harper/). I completed my MSci in Mathematics at University College London; my master's project was titled 'Exploring recent developments in gaps between prime numbers' and was supervised by [Dr Ian Petrow](https://www.homepages.ucl.ac.uk/~ucahpet/).
 
