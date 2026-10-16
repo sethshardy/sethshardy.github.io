@@ -30,3 +30,26 @@ Previously, I completed my PhD titled "Three Problems on Random Multiplicative F
 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
+<style>
+/* Publication DOI and arXiv buttons */
+.publications .links a.btn {
+  display: inline-block;
+  border: 1px solid #0d9488 !important;
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin: 4px 6px 4px 0;
+  color: #0d9488 !important;
+  text-decoration: none;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* Button hover effect */
+.publications .links a.btn:hover {
+  background-color: #0d9488 !important;
+  color: white !important;
+}
+</style>
+
