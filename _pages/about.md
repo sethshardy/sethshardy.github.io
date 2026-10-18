@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -28,13 +28,7 @@ I am a Postdoctoral Research Associate in Analytic Number Theory at the [Univers
 
 Previously, I completed my PhD titled "Three Problems on Random Multiplicative Functions" at the University of Warwick under the supervision of Professor Adam Harper. Before that, I completed my MSci in Mathematics at University College London; my master's project was titled 'Exploring recent developments in gaps between prime numbers' and was supervised by Dr Ian Petrow.
 
-/* Reduce profile photograph height */
-.profile img {
-  width: 100%;
-  height: 175px;
-  object-fit: cover;
-  object-position: center 35%;
-}
+Feel free to contact me at hardy@maths.ox.ac.uk
 
 <style>
 /* Publication DOI and arXiv buttons */
