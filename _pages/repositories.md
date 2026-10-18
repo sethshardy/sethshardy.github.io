@@ -36,9 +36,6 @@ nav_order: 7
 - **London Junior Number Theory Seminar** — Exponential sums with random multiplicative coefficients
   London, April 2024
 - **Stanford Student Analytic Number Theory Seminar** — Bounds for exponential sums with random multiplicative coefficients
-  Stanford, March 2024
+  Online, March 2024
 - **FRG Grad Seminar** — Bounds for exponential sums with random multiplicative coefficients
   Online, March 2024
-
-- **Title of Talk** — Graduate Seminar,
-  University Name, February 2024.
