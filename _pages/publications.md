@@ -13,13 +13,13 @@ nav_order: 2
 
 ## Writing
 
-- **Torsion in Class Groups** pdf —  These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
+- **Torsion in Class Groups** [PDF](/assets/pdf/Ellenberg_Venkatesh_Class_Groups.pdf) —  These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
 
-- **Large values of Dirichlet polynomials** pdf —  These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus one a very nice paper of Heath-Brown.
+- **Large values of Dirichlet polynomials** [PDF](/assets/pdf/Dirichlet_Polynomials.pdf) —  These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus one a very nice paper of Heath-Brown.
 
-- **The Dickman function in probability** pdf — This is a short project written for MA946 while I was in the first year of my PhD.
+- **The Dickman function in probability** [PDF](/assets/pdf/Dickman_Function.pdf) — This is a short note written for MA946 in Warwick (a probability module) while I was in the first year of my PhD.
 
-- **Gaps between prime numbers** pdf — This is my MSci project from 2022, supervised by Dr Ian Petrow at UCL.
+- **Gaps between prime numbers** [PDF](/assets/pdf/Prime_Gaps.pdf) — This is my MSci project from 2022, supervised by Dr Ian Petrow at UCL.
 
 <style>
 /* Publication buttons */
