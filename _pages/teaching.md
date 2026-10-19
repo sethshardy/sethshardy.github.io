@@ -8,8 +8,25 @@ nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+### 2025–2026
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+- **Complex Analysis** — Teaching Assistant <br>
+  *University of Warwick, Autumn term 2025*
+  
+### 2024–2025
 
-{% include courses.liquid %}
+- **Introduction to Number Theory** — Teaching Assistant <br>
+  *University of Warwick, Spring terms 2023 and 2025*
+  
+- **Analytic Number Theory** — Teaching Assistant <br>
+  *University of Warwick, Autumn term 2024*
+
+### 2023–2024
+
+- **Supervisor** — Tutor for first year mathematics students <br>
+  *University of Warwick, academic year 2023/24*
+
+### 2022–2023
+
+- **Introduction to Number Theory** — Teaching Assistant <br>
+  *University of Warwick, Spring terms 2023*
