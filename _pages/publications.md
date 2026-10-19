@@ -13,7 +13,9 @@ nav_order: 2
 
 ## Writing
 
-- **Large values of Dirichlet polynomials** pdf —  These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in 2025. These notes focus one a very nice paper of Heath-Brown.
+- **Torsion in Class Groups** pdf —  These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
+
+- **Large values of Dirichlet polynomials** pdf —  These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus one a very nice paper of Heath-Brown.
 
 - **The Dickman function in probability** pdf — This is a short project written for MA946 while I was in the first year of my PhD.
 
