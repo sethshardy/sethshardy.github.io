@@ -40,7 +40,7 @@ nav_order: 7
   *London, June 2024*
   
 - **Bristol Linfoot Number Theory Seminar** — Exponential sums with random multiplicative coefficients<br>
-  *Bristol, May 2024*
+  *University of Bristol, May 2024*
   
 - **London Junior Number Theory Seminar** — Exponential sums with random multiplicative coefficients<br>
   *London, April 2024*
