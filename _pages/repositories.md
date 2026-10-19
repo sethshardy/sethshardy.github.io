@@ -15,7 +15,7 @@ nav_order: 7
 - **Heilbronn Number Theory Seminar** — Character sums over smooth numbers<br>
   *University of Bristol, March 2026*
   
-- **Real Zeros of Random Polynomials workshop** — Exponential sums with random multiplicative coefficients<br>
+- **Real Zeros of Random Polynomials with Structured Coefficients Workshop** — Exponential sums with random multiplicative coefficients<br>
   *University of Bristol, February 2026*
 
 ## 2025
@@ -26,7 +26,7 @@ nav_order: 7
 - **Multiplicative Chaos in Number Theory Workshop** — The distribution of random multiplicative functions with a large prime factor<br>
   *University of Warwick, March 2025*
   
-- **Rencontres de théorie analytique et élémentaire des nombres** — Random multiplicative functions and their distribution<br>
+- **Rencontres de Théorie Analytique et Élémentaire des Nombres** — Random multiplicative functions and their distribution<br>
   *Institut Henri Poincaré, March 2025*
   
 - **Séminaire de Théorie des Nombres de Nancy-Metz** — Exponential sums with random multiplicative coefficients<br>
@@ -36,7 +36,7 @@ nav_order: 7
   *University of Manchester, January 2025*
 
 ## 2024
-- **London number theory study group** — Almost sure bounds for partial sums of a weighted Steinhaus random multiplicative function<br>
+- **London Number Theory Study Group** — Almost sure bounds for partial sums of a weighted Steinhaus random multiplicative function<br>
   *London, June 2024*
   
 - **Bristol Linfoot Number Theory Seminar** — Exponential sums with random multiplicative coefficients<br>
