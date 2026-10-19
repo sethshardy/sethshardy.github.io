@@ -23,10 +23,10 @@ calendar: true
 
 ### 2023–2024
 
-- **Supervisor** — Tutor for first year mathematics students <br>
-  *University of Warwick, academic year 2023/24*
+- **Supervisor** — Tutor for first-year mathematics students <br>
+  *University of Warwick, Academic year 2023/24*
 
 ### 2022–2023
 
 - **Introduction to Number Theory** — Teaching Assistant <br>
-  *University of Warwick, Spring terms 2023*
+  *University of Warwick, Spring term 2023*
