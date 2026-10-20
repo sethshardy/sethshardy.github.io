@@ -41,4 +41,11 @@ nav_order: 2
   background-color: #0d9488 !important;
   color: white !important;
 }
+
+/* Align Writing entries with the page content */
+#writing + ul {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  list-style: none;
+}
 </style>
