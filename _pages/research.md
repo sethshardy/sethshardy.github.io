@@ -18,10 +18,10 @@ nav_order: 2
 {% endcomment %}
 
 - **Torsion in Class Groups** <a href="/assets/pdf/Ellenberg_Venkatesh_Class_Groups.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
-- These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
+- These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. These notes focus on work of Ellenberg and Venkatesh.
 
 - **Large values of Dirichlet polynomials** <a href="/assets/pdf/Dirichlet_Polynomials.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
-- These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus on a nice paper of Heath-Brown.
+- These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in Spring term 2025. These notes focus on a nice paper of Heath-Brown.
 
 - **The Dickman function in probability** <a href="/assets/pdf/Dickman_Function.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
 - This is a short note written for MA946 in Warwick (a probability module) while I was in the first year of my PhD.
