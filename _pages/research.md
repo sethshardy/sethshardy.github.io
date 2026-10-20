@@ -15,7 +15,8 @@ nav_order: 2
 
 - **Three Problems on Random Multiplicative Functions** [PDF] —  This is my thesis from the University of Warwick, supervised by Professor Adam Harper.
 
-- **Torsion in Class Groups** [PDF](/assets/pdf/Ellenberg_Venkatesh_Class_Groups.pdf) —  These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
+- **Torsion in Class Groups** <a href="/assets/pdf/Ellenberg_Venkatesh_Class_Groups.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a>
+ —  These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
 
 - **Large values of Dirichlet polynomials** [PDF](/assets/pdf/Dirichlet_Polynomials.pdf) —  These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus on a nice paper of Heath-Brown.
 
@@ -48,4 +49,26 @@ nav_order: 2
   padding-left: 0 !important;
   list-style: none;
 }
+
+
+/* PDF buttons in Writing section */
+a.writing-pdf {
+  display: inline-block;
+  border: 1px solid #0d9488 !important;
+  border-radius: 4px;
+  padding: 5px 10px;
+  margin: 2px 4px;
+  background: transparent !important;
+  color: #0d9488 !important;
+  text-decoration: none !important;
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+/* Hover effect */
+a.writing-pdf:hover {
+  background: #0d9488 !important;
+  color: white !important;
+}
+
 </style>
