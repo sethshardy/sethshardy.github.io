@@ -12,17 +12,22 @@ nav_order: 2
 {% include selected_papers.liquid %}
 
 ## Writing
+{% comment %}
+- **Three Problems on Random Multiplicative Functions** [PDF] <br>
+- This is my thesis from the University of Warwick, supervised by Professor Adam Harper.
+{% endcomment %}
 
-- **Three Problems on Random Multiplicative Functions** [PDF] —  This is my thesis from the University of Warwick, supervised by Professor Adam Harper.
+- **Torsion in Class Groups** <a href="/assets/pdf/Ellenberg_Venkatesh_Class_Groups.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
+- These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
 
-- **Torsion in Class Groups** <a href="/assets/pdf/Ellenberg_Venkatesh_Class_Groups.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a>
- —  These are some notes made for a study group on Torsion in Class Groups, which we had in Warwick in Autumn term 2025. these notes focus on work of Ellenberg and Venkatesh.
+- **Large values of Dirichlet polynomials** <a href="/assets/pdf/Dirichlet_Polynomials.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
+- These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus on a nice paper of Heath-Brown.
 
-- **Large values of Dirichlet polynomials** [PDF](/assets/pdf/Dirichlet_Polynomials.pdf) —  These are some notes made for a study group on mean values of Dirichlet polynomials, which we had in Warwick in summer 2025. These notes focus on a nice paper of Heath-Brown.
+- **The Dickman function in probability** <a href="/assets/pdf/Dickman_Function.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
+- This is a short note written for MA946 in Warwick (a probability module) while I was in the first year of my PhD.
 
-- **The Dickman function in probability** [PDF](/assets/pdf/Dickman_Function.pdf) — This is a short note written for MA946 in Warwick (a probability module) while I was in the first year of my PhD.
-
-- **Gaps between prime numbers** [PDF](/assets/pdf/Prime_Gaps.pdf) — This is my MSci project from 2022, supervised by Dr Ian Petrow at UCL.
+- **Gaps between prime numbers** <a href="/assets/pdf/Prime_Gaps.pdf" class="btn btn-sm z-depth-0 writing-pdf">PDF</a> <br>
+- This is my MSci project from 2022, supervised by Dr Ian Petrow at UCL.
 
 <style>
 /* Publication buttons */
