@@ -26,7 +26,7 @@ latest_posts:
 
 I am a Postdoctoral Research Associate in Analytic Number Theory at the University of Oxford in the research group of Professor James Maynard. I am also a Junior Research Fellow at Kellogg College. My main research interests lie broadly in probabilistic number theory. 
 
-Recently, I defended my PhD titled "Three Problems on Random Multiplicative Functions" at the University of Warwick under the supervision of Professor Adam Harper. Before that, I completed my MSci in Mathematics at University College London; my master's project was titled 'Exploring recent developments in gaps between prime numbers' and was supervised by Dr Ian Petrow.
+I recently defended my PhD titled "Three Problems on Random Multiplicative Functions", which was supervised by Professor Adam Harper at the University of Warwick. Before that, I completed my MSci in Mathematics at University College London; my master's project was titled 'Exploring recent developments in gaps between prime numbers' and was supervised by Dr Ian Petrow.
 
 Feel free to contact me at hardy@maths.ox.ac.uk
 
